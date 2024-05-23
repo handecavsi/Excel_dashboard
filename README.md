@@ -21,9 +21,15 @@ Dashboard was created by determining important metrics, chart types are compatib
 - Report
 Recommendations were made based on the calculations and results. The aim of the report is how the company can increase its profits.
 
+Dashboard consists of 4 stages:
 
+1. General Order Report
+2. Order Report by Country
+3. Customer Segment Based Order report
+4. Product Based order report
 
-Google drive linkinde ilgili excel dökümanını ve vidyolu anlatımı bulabilrsiniz:
+Since the Excel file size is above the Github limit, only dashboard images have been added to the repo. You can access the relevant Excel document and the video explanation of the project from the drive link:
+
 Google Drive Linki: https://drive.google.com/drive/u/0/folders/13QIBNXW22sgO3kBt_n6sT3y7-ZRUT4B3
 
 
